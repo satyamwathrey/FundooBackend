@@ -1,0 +1,16 @@
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.json
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.runtimeconfig.dev.json
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache

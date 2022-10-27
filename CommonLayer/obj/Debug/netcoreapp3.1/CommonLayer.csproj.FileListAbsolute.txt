@@ -1,0 +1,10 @@
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

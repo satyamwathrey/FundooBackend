@@ -1,0 +1,15 @@
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+D:\BRIDGELABZ\GITHUB\FundooApp\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
